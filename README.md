@@ -8,6 +8,6 @@ ADF main components
 5) activities
 
 Q) How do apply the full load process?
-Ans: 
+Linked service creation
 <img src="../images/Linked Service.PNG" alt="Example Image" width="400" height="300">
 
