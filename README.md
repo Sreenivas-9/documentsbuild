@@ -10,5 +10,6 @@ ADF main components
 Q) How do apply the full load process?
 
 Linked service creation
-<img src="../images/Linked Service.PNG" alt="Example Image" width="400" height="300">
+<img src="/images/Linked%20Service.PNG" alt="Linked Service" width="400" height="300">
+
 
