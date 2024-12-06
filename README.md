@@ -8,4 +8,4 @@ ADF main components
 5) activities
 
 A) How do apply the full load process?
-Ans: ![Example Image](/images/example-image.jpg)
+Ans: ![Example Image](images/Linked Service.PNG)
