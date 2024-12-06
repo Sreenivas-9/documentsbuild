@@ -9,3 +9,5 @@ ADF main components
 
 A) How do apply the full load process?
 Ans: ![Example Image](images/Linked Service.PNG)
+<img src="../images/Linked Service.PNG" alt="Example Image" width="400" height="300">
+
