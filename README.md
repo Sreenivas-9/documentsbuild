@@ -7,7 +7,7 @@ ADF main components
 4) trigger
 5) activities
 
-A) How do apply the full load process?
-Ans: ![Example Image](images/Linked Service.PNG)
+Q) How do apply the full load process?
+Ans: 
 <img src="../images/Linked Service.PNG" alt="Example Image" width="400" height="300">
 
