@@ -13,3 +13,4 @@ Linked service creation
 <img src="/images/Linked%20Service.PNG" alt="Linked Service" width="400" height="300">
 
 
+
